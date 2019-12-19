@@ -1,10 +1,10 @@
 package main
 
 import (
-	"./app"
-	"./server"
 	"encoding/json"
 	"fmt"
+	"github.com/losyear/go-http-server/app"
+	"github.com/losyear/go-http-server/server"
 )
 
 func main() {
